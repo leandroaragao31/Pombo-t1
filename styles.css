@@ -30,3 +30,7 @@ main{
     background-color: red;
     height:800px ;
 }
+
+figure img {
+    width: 200px;
+}
