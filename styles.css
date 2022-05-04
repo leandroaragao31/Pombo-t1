@@ -1,32 +1,35 @@
-*{
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 
-
-header{
+header {
     display: flex;
     background-color: darkgreen;
     justify-content: space-evenly;
     align-items: center;
 }
-header ul{
+
+header ul {
     display: flex;
     list-style: none;
     justify-content: space-around;
-
 }
 
-header img{
+header img {
     width: 10vw;
 }
 
-header nav{
+header nav {
     width: 40%;
 }
 
-main{
+main {
     background-color: red;
-    height:800px ;
+    height: 800px;
+}
+
+h2 {
+    font-size: 34px;
 }
